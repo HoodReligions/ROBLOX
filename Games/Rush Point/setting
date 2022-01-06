@@ -2,11 +2,14 @@
     Information:  by stefaunk12
 
     - Rush Point (https://www.roblox.com/games/5993942214/)
+    
+    this was made by by stefaunk12
+   
 ]]
 
 -- // Dependencies
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/Module.lua"))()
-Aiming.TargetPart = {"Head", "UpperTorso"}
+Aiming.TargetPart = {"Head"}
 
 -- // Services
 local Players = game:GetService("Players")
